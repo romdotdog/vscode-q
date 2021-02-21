@@ -3,6 +3,10 @@
 	"displayName": "vscode-q",
 	"description": "Syntax highlighting for q patterns.",
 	"version": "0.0.1",
+	"publisher": "romdotdog",
+	"repository": {
+		"url": "https://github.com/romdotdog/vscode-q"
+	},
 	"engines": {
 		"vscode": "^1.53.0"
 	},
